@@ -2,28 +2,20 @@
 
 ---
 
-### Category Name 1 
 
-[Project 1 Title](file:///C:/Users/carol/Downloads/GrosslMartins_300324495_lab2/GrosslMartins_300324495_lab2/GROSSLMARTINS_300324495_lab2.html)
+[Project 1 Title]()
 <img src="images/Screenshot (106).png"/>
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Project 2 Title]()
+<img src="images/Screenshot (107).png"/>
 
 ---
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Project 3 Title]()
+<img src="images/Screenshot (108).png"/>
 
 ---
 
-### Category Name 2
-
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
 
 ---
 
