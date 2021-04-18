@@ -4,8 +4,8 @@
 
 ### Category Name 1 
 
-[Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Project 1 Title](file:///C:/Users/carol/Downloads/GrosslMartins_300324495_lab2/GrosslMartins_300324495_lab2/GROSSLMARTINS_300324495_lab2.html)
+<img src="Screenshot (106).png"/>
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
