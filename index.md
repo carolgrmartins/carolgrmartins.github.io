@@ -3,7 +3,7 @@
 ---
 
 
-[Project 1 Title]()
+[Project 1 Title]("GrosslMartins_300324495_lab2/GROSSLMARTINS_300324495_lab2.html")
 <img src="images/Screenshot (106).png"/>
 
 ---
